@@ -25,7 +25,7 @@
 # In[1]:
 
 import numpy as np
-get_ipython().magic('matplotlib inline')
+#get_ipython().magic('matplotlib inline')
 import matplotlib.pyplot as plt
 import pandas as pd
 
